@@ -1,2 +1,2 @@
-# Understanding-Python
-Understanding Python basics with coding
+# EarthquakeAnalysisProject
+Understanding Python with data on Earthquakes from NEIC.
